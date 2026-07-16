@@ -67,7 +67,7 @@ text, tspan {white-space: pre;}
 
 <tspan x="520" y="313" fill="#c9d1d9">- </tspan><tspan fill="#61afef" font-weight="bold">Contact</tspan><tspan fill="#616e7f"> ———————————————————————————————————————</tspan>
 <tspan x="520" y="336" class="key">Email</tspan><tspan class="value">: jinxuanyen@gmail.com</tspan>
-<tspan x="520" y="359" class="key">Website</tspan><tspan class="value">: yourportfolio.com</tspan>
+<tspan x="520" y="359" class="key">Website</tspan><tspan class="value">: https://jin-xuan-portfolio.vercel.app/</tspan>
 
 <tspan x="520" y="392" fill="#c9d1d9">- </tspan><tspan fill="#61afef" font-weight="bold">GitHub Stats</tspan><tspan fill="#616e7f"> ——————————————————————————————————</tspan>
 <tspan x="520" y="415" class="key">GitHub Repos  </tspan><tspan class="value">: </tspan><tspan class="value" id="repo_data">30</tspan><tspan class="value"> {Contributed: </tspan><tspan class="value" id="contrib_data">33</tspan><tspan class="value">} | Stars: </tspan><tspan class="value" id="star_data">0</tspan>
