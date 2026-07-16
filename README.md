@@ -3,5 +3,4 @@
   <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
   <img alt="GitHub Profile Stats" src="./light_mode.svg">
 </picture>
-
 <br>
